@@ -1,0 +1,5 @@
+{
+    "require": {
+        "matheusfaustino/phrawl": "dev-refactor"
+    }
+}
